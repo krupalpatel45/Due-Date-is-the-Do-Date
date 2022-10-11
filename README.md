@@ -15,3 +15,6 @@ How this will work, is that someone with access to a vehicle can provide the opt
 This is our introductory vlog video for our application
 
 ## Mentor(s)
+[Kin-Choong Yow](https://www.uregina.ca/engineering/faculty-staff/faculty/maciag-timothy.html)
+
+[Timothy Maciag](https://www.uregina.ca/engineering/faculty-staff/faculty/maciag-timothy.html)
