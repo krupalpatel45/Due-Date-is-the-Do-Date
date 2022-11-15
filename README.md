@@ -11,8 +11,12 @@ To address these challenges, we plan to develop a web application that will prov
 
 How this will work, is that someone with access to a vehicle can provide the option of ride share with someone who lacks the access, while simultaneously getting the opportunity to make a small earning through the rider.
 
-## [Vlog](https://youtu.be/U2haYOKhFSs)
-This is our introductory vlog video for our application
+## Vlog
+These are our vlog video for our application showing status updates
+
+[#1](https://youtu.be/U2haYOKhFSs)
+
+[#2](https://www.youtube.com/watch?v=TXkFm_IfekI)
 
 ## Mentor(s)
 [Kin-Choong Yow](https://www.uregina.ca/engineering/faculty-staff/faculty/maciag-timothy.html)
