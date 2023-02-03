@@ -1,6 +1,6 @@
 # Due-Date-is-the-Do-Date
 
-                                                    UniGo
+                                                      UniGo
 
 ## Members
                         Krupal Patel                                      Yash Patel
