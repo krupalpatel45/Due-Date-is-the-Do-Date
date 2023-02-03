@@ -1,4 +1,4 @@
-# Group Name: Due-Date-is-the-Do-Date
+# Due-Date-is-the-Do-Date
 
 <p align="center">
   <h2>UniGo</h2>
