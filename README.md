@@ -1,7 +1,7 @@
 # Group Name: Due-Date-is-the-Do-Date
 
 <p align="center">
-  <h2>                          UniGo</h2>
+  <h2>UniGo</h2>
 </p>
 
 ## Members
