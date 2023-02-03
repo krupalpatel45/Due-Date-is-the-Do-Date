@@ -1,8 +1,6 @@
 # Due-Date-is-the-Do-Date
 
-<p align="center">
-  <h2>UniGo</h2>
-</p>
+                                                    UniGo
 
 ## Members
                         Krupal Patel                                      Yash Patel
