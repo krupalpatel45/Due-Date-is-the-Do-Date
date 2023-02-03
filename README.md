@@ -1,5 +1,8 @@
-#Group Name: Due-Date-is-the-Do-Date
-#App Name: UniGo
+# Group Name: Due-Date-is-the-Do-Date
+
+<p align="center">
+  <h2>UniGo</h2>
+</p>
 
 ## Members
                         Krupal Patel                                      Yash Patel
@@ -11,7 +14,7 @@ The University of Regina community, including students and faculty, faces challe
 ## Vlog
 These are our vlog video for our application showing status updates
 
-[UniGo status update 1](https://youtu.be/U2haYOKhFSs)
+[UniGo status update 1](`video:https://youtu.be/U2haYOKhFSs`)
 
 [UniGo status update 2](https://www.youtube.com/watch?v=TXkFm_IfekI)
 
