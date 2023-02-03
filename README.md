@@ -20,7 +20,9 @@ These are our vlog video for our application showing status updates
 
 [#3](https://youtu.be/iMI1N-9L-4A)
 
+[#4](https://youtu.be/VvkRTfWK07g)
+
 ## Mentor(s)
-[Kin-Choong Yow](https://www.uregina.ca/engineering/faculty-staff/faculty/maciag-timothy.html)
+[Kin-Choong Yow](https://www.uregina.ca/engineering/faculty-staff/faculty/yow-kin-choong.html)
 
 [Timothy Maciag](https://www.uregina.ca/engineering/faculty-staff/faculty/maciag-timothy.html)
