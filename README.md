@@ -20,6 +20,8 @@ These are our vlog video for our application showing status updates
 
 [UniGo status update 4](https://youtu.be/VvkRTfWK07g)
 
+[UniGo status update 5](https://youtu.be/m9lyYLobs3Y)
+
 ## Mentor(s)
 [Kin-Choong Yow](https://www.uregina.ca/engineering/faculty-staff/faculty/yow-kin-choong.html)
 
