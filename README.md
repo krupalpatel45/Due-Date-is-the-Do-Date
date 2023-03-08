@@ -1,9 +1,5 @@
 # Due-Date-is-the-Do-Date
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-  <iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/sbBTID8UQck?autoplay=1&loop=1&playlist=sbBTID8UQck" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 
 
@@ -15,6 +11,12 @@
 ## Project Idea
 
 The University of Regina community, including students and faculty, faces challenges with their daily commutes, such as dependence on time-consuming public transportation, unreliability due to weather conditions, and long waiting times during Saskatchewan winters. To address these concerns, we propose the development of a web-based application that facilitates carpooling and ride-sharing among the university community. This not only lessens the carbon footprint but also allows the car owner to earn a small amount.
+
+## Site Preview
+|![First Image](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/1.png)|![Second Image](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/2.png)|
+
+
+
 
 ## Vlog
 These are our vlog video for our application showing status updates
