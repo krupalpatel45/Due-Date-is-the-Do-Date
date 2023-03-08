@@ -18,12 +18,12 @@ The University of Regina community, including students and faculty, faces challe
 |:-:|:-:|
 |![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/1.png)|![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/2.png)|
 | | |
-|:-:|:-:|
 |![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/4.png)|![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/Krupals-edits/AppCode/UniGo_Code_V3/Photos_V3/6.jpeg)|
 
 
 
 ## Vlog
+
 These are our vlog video for our application showing status updates
 
 [UniGo status update 1](https://youtu.be/U2haYOKhFSs)
