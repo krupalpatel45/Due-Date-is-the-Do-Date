@@ -14,9 +14,7 @@
 The University of Regina community, including students and faculty, faces challenges with their daily commutes, such as dependence on time-consuming public transportation, unreliability due to weather conditions, and long waiting times during Saskatchewan winters. To address these concerns, we propose the development of a web-based application that facilitates carpooling and ride-sharing among the university community. This not only lessens the carbon footprint but also allows the car owner to earn a small amount.
 
 ## Poster
-
-| | |
-|![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/main/Documentation/Diagrams/FinalPrint.png)|
+![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/main/Documentation/Diagrams/FinalPrint.png)
 
 ## [Site Preview](http://unigo.live/login)
 
