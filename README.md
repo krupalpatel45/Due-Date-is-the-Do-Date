@@ -1,3 +1,4 @@
+
 # Due-Date-is-the-Do-Date
 
 
@@ -48,5 +49,3 @@ The University of Regina has a large number of students and faculty who depend o
 
 ## Business Need/Opportunity
 UniGo provides a solution to the challenges of public transportation by offering a more efficient, reliable, and cost-effective mode of transportation. With UniGo, users can share their commute with others, reducing their carbon footprint and earning a small income.
-
-
