@@ -16,8 +16,7 @@ The University of Regina community, including students and faculty, faces challe
 ## Poster
 ![ ](https://github.com/krupalpatel45/Due-Date-is-the-Do-Date/blob/main/Documentation/Diagrams/FinalPrint.png)
 
-## Kanban
-![ ](https://github.com/users/Yash8045/projects/2)
+## [Kanban](https://github.com/users/Yash8045/projects/2)
 
 ## [Site Preview](http://unigo.live/login)
 
