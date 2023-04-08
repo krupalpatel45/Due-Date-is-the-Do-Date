@@ -18,6 +18,8 @@ The University of Regina community, including students and faculty, faces challe
 
 ## [Kanban](https://github.com/users/Yash8045/projects/2)
 
+## [Commercial](https://www.canva.com/design/DAFffYlocdM/R7Rkiim7Q6N2kD-WFUvwfQ/watch?utm_content=DAFffYlocdM&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 ## [Site Preview](http://unigo.live/login)
 
 | | |
